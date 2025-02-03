@@ -1,4 +1,4 @@
-#WAP to print all three numbers whose summation is 0
+#WAP to print all three numbers whose summation is 0 or 1
 l=[-1,0,1,2,-1,-4]
 if l.count(0)==len(l):
     print([0,0,0])
