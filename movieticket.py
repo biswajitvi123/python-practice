@@ -1,5 +1,6 @@
 
 def singleTon(arg):
+    
     l=[]
     def inner():
         if len(l)==0:
